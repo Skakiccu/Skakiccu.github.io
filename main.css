@@ -1,0 +1,54 @@
+.main-text{
+    text-align: center; 
+    font-size: 40px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 90px;
+    color: red;
+}
+
+.main-img{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name{
+    font-size: 30px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.job{
+    font-size: 15px;
+    margin-top: -17px;
+    text-align: center;
+}
+
+.detail{
+    font-size: 10px;
+    color: #aaa;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.atag{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.box{
+    background-color: #666;
+    width: 50%;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+.divbox{
+
+}

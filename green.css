@@ -1,0 +1,35 @@
+.first-box{
+    padding-top: 10px;
+    background-color: rgb(204, 253, 131);
+    width: 100%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+.subject{
+    color: navy;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.detail{
+    color: navy;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.button{
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: rgb(204, 253, 131);
+    border: solid;
+    border-radius: 50px;
+    margin-left: 40px;
+}
